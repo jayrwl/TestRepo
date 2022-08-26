@@ -1,0 +1,8 @@
+D:\Jayesh\TEST\ConverterWebApi\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+D:\Jayesh\TEST\ConverterWebApi\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Jayesh\TEST\ConverterWebApi\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+D:\Jayesh\TEST\ConverterWebApi\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Jayesh\TEST\ConverterWebApi\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+D:\Jayesh\TEST\ConverterWebApi\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Jayesh\TEST\ConverterWebApi\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+D:\Jayesh\TEST\ConverterWebApi\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
